@@ -1,0 +1,7 @@
+.featured-img img{width: 100%; max-height: 350px; object-fit: cover;}
+.sort-by{ display: flex; justify-content: end;}
+.sort-by select{border: 0; background-color: transparent;cursor: pointer;}
+select option:hover{cursor: progress;}
+.blog-img img{width: 100%;}
+.blog-list .blog-short-desc{text-align: center; padding: 15px;}
+.blog-list{margin-bottom: 30px;}
